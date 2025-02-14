@@ -42,8 +42,8 @@ body {
     font-size: 16px;
     line-height: 1.75em;
     font-weight: 400;
-    color: #666;
 }
+
 
 /* typography */
 h1,
@@ -316,8 +316,8 @@ input[type="reset"],
 input[type="button"],
 button {
     font-family: 'Didact Gothic', sans-serif;
-    background: #b08c3e;
-    border: 1px solid #b08c3e;
+    background: #99b494;
+    border: 1px solid #99b494;
     color: #fff;
     padding: 12px 30px;
     margin: 0;
@@ -392,7 +392,7 @@ input[type=checkbox]:before {
 input[type=checkbox]:after {
     font-family: 'themify';
     content: '\e64c';
-    color: #b08c3e;
+    color: #99b494;
     background: transparent;
     position: absolute;
     top: 1px;
@@ -438,7 +438,7 @@ input[type=radio]:before {
     display: inline-block;
     top: 0px;
     left: -4px;
-    background-image: radial-gradient(circle, #b08c3e 50%, #fff 70%);
+    background-image: radial-gradient(circle, #99b494 50%, #fff 70%);
     background-size: 0;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -529,7 +529,7 @@ input[type=radio]:checked:before {
     position: absolute;
     width: 26px;
     height: 26px;
-    background: #b08c3e;
+    background: #99b494;
     animation: lds-heart 1.2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 
@@ -540,7 +540,7 @@ input[type=radio]:checked:before {
     display: block;
     width: 26px;
     height: 26px;
-    background: #b08c3e;
+    background: #99b494;
 }
 
 .lds-heart div:before {
@@ -616,8 +616,8 @@ input[type=radio]:checked:before {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #b08c3e;
-    border: 1px solid #b08c3e;
+    background: #99b494;
+    border: 1px solid #99b494;
 }
 
 
@@ -640,7 +640,7 @@ input[type=radio]:checked:before {
 }
 
 .navbar .navbar-toggler-icon {
-    color: #b08c3e;
+    color: #99b494;
 
 }
 
@@ -659,11 +659,11 @@ input[type=radio]:checked:before {
 }
 
 .navbar .navbar-nav .nav-link:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .navbar .navbar-nav .active {
-    color: #b08c3e !important;
+    color: #99b494 !important;
 }
 
 .nav-scroll {
@@ -684,7 +684,7 @@ input[type=radio]:checked:before {
 }
 
 .nav-scroll .navbar-toggler-icon {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .nav-scroll .navbar-nav .nav-link {
@@ -692,7 +692,7 @@ input[type=radio]:checked:before {
 }
 
 .nav-scroll .navbar-nav .active {
-    color: #b08c3e !important;
+    color: #99b494 !important;
 }
 
 .nav-scroll .navbar-nav .logo {
@@ -856,7 +856,7 @@ input[type=radio]:checked:before {
 .sub-menu .dropdown-item:hover {
     background: transparent;
     padding-left: 20px;
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .dropdown-menu .dropdown-item a,
@@ -867,7 +867,7 @@ input[type=radio]:checked:before {
 
 .dropdown-menu .dropdown-item a:hover,
 .sub-menu .dropdown-item a:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .dropdown-menu .dropdown-item a .badge,
@@ -875,8 +875,8 @@ input[type=radio]:checked:before {
     margin-left: 10px;
     padding: 3px 5px 3px 5px;
     font-size: 8px;
-    background: #b08c3e;
-    border: 1px solid #b08c3e;
+    background: #99b494;
+    border: 1px solid #99b494;
     top: 12px;
     border-radius: 0px;
     color: #1b1b1b;
@@ -1146,7 +1146,7 @@ input[type=radio]:checked:before {
 
 .section-subtitle {
     display: block;
-    color: #b08c3e;
+    color: #788b74;
     font-size: 14px;
     font-weight: 400;
     font-family: 'Didact Gothic', sans-serif;
@@ -1166,7 +1166,7 @@ input[type=radio]:checked:before {
 
 .rsvp h6 {
     display: block;
-    color: #b08c3e;
+    color: #99b494;
     font-size: 15px;
     font-weight: 400;
     font-family: 'Didact Gothic', sans-serif;
@@ -1233,12 +1233,12 @@ input[type=radio]:checked:before {
 }
 
 .bride-groom .info h6 i {
-    color: #b08c3e;
+    color: #99b494;
     font-size: 16px;
 }
 
 .bride-groom .info span {
-    color: #b08c3e;
+    color: #99b494;
     font-size: 24px;
     font-weight: 400;
     font-family: 'Alex Brush', cursive;
@@ -1352,7 +1352,7 @@ input[type=radio]:checked:before {
 }
 
 .story .caption h6 {
-    color: #b08c3e;
+    color: #99b494;
     font-family: 'Didact Gothic', sans-serif;
     font-size: 12px;
     margin-bottom: 10px;
@@ -1558,7 +1558,7 @@ input[type=radio]:checked:before {
 }
 
 .friends .info span {
-    color: #b08c3e;
+    color: #99b494;
     font-size: 22px;
     font-weight: 400;
     margin-bottom: 5px;
@@ -1640,7 +1640,7 @@ input[type=radio]:checked:before {
 }
 
 .story-video .video-wrapper .vid .vid-butn .icon {
-    color: #b08c3e;
+    color: #99b494;
     width: 100px;
     height: 100px;
     border: 1px solid rgba(255, 255, 255, 0.2);
@@ -1729,7 +1729,7 @@ input[type=radio]:checked:before {
 }
 
 .events .caption h6 {
-    color: #b08c3e;
+    color: #99b494;
     font-family: 'Didact Gothic', sans-serif;
     font-size: 12px;
     margin-bottom: 10px;
@@ -1795,7 +1795,7 @@ input[type=radio]:checked:before {
 .when-where .content .date h3 {
     font-size: 75px;
     font-weight: 600;
-    color: #b08c3e;
+    color: #99b494;
     margin-bottom: 0px;
     font-family: 'Didact Gothic', sans-serif;
 }
@@ -1838,7 +1838,7 @@ input[type=radio]:checked:before {
 
 .when-where .content .cont .cont-list li .icon span {
     font-size: 16px;
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .when-where .content .cont .cont-list li .text {
@@ -1858,7 +1858,7 @@ input[type=radio]:checked:before {
 }
 
 .when-where .content .cont .cont-list li .text p a:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .when-where .content .cont p {
@@ -1866,7 +1866,7 @@ input[type=radio]:checked:before {
 }
 
 .when-where .content .cont p i {
-    color: #b08c3e;
+    color: #99b494;
     font-size: 16px;
     margin-right: 5px;
 
@@ -1877,7 +1877,7 @@ input[type=radio]:checked:before {
     font-weight: 300;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #b08c3e;
+    color: #99b494;
     padding-left: 40px;
     position: relative;
 }
@@ -1886,7 +1886,7 @@ input[type=radio]:checked:before {
     content: '';
     width: 30px;
     height: 1px;
-    background: #b08c3e;
+    background: #99b494;
     position: absolute;
     top: 50%;
     left: 0px;
@@ -1899,14 +1899,14 @@ input[type=radio]:checked:before {
 .when-where .content .info h6 {
     font-size: 12px;
     letter-spacing: 5px;
-    color: #b08c3e;
+    color: #99b494;
     font-family: 'Didact Gothic', sans-serif;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
 
 .when-where .content .info .tags {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 @media screen and (max-width: 991px) {
@@ -1967,7 +1967,7 @@ input[type=radio]:checked:before {
 .gallery-menu a.active,
 .gallery-menu a:hover {
     color: #fff;
-    background-color: #b08c3e;
+    background-color: #99b494;
 }
 
 .gallery-item {
@@ -2081,7 +2081,7 @@ input[type=radio]:checked:before {
     font-family: 'Didact Gothic', sans-serif;
     font-size: 70px;
     font-weight: 400;
-    color: #b08c3e;
+    color: #99b494;
     margin-bottom: 10px;
 }
 
@@ -2123,14 +2123,14 @@ input[type=radio]:checked:before {
     content: '';
     width: 40px;
     height: 1px;
-    background: #b08c3e;
+    background: #99b494;
     position: absolute;
     top: 50%;
     left: 0px;
 }
 
 .marybrian-blog .content .cont .more:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .marybrian-blog .content .info h6 {
@@ -2142,7 +2142,7 @@ input[type=radio]:checked:before {
 }
 
 .marybrian-blog .content .info .tags {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 @media screen and (max-width: 991px) {
@@ -2309,14 +2309,14 @@ input[type=radio]:checked:before {
 .blog-page .post-cont .date {
     font-size: 12px;
     text-transform: uppercase;
-    color: #b08c3e;
+    color: #99b494;
     font-weight: 400;
     letter-spacing: 5px;
 }
 
 .blog-page .post-cont .tag:hover,
 .blog-page .post-cont .date:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .blog-page .post-cont h5 {
@@ -2330,7 +2330,7 @@ input[type=radio]:checked:before {
 }
 
 .blog-page .post-cont h5 a:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .blog-page .post-cont .info {
@@ -2368,7 +2368,7 @@ input[type=radio]:checked:before {
 }
 
 .blog-sidebar .widget ul li:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .blog-sidebar .widget ul li a {
@@ -2376,11 +2376,11 @@ input[type=radio]:checked:before {
 }
 
 .blog-sidebar .widget ul li a.active {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .blog-sidebar .widget ul li a:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .blog-sidebar .widget ul li:last-child {
@@ -2459,7 +2459,7 @@ input[type=radio]:checked:before {
 .blog-sidebar ul.tags li:hover,
 .blog-sidebar ul.tags li a:hover {
     color: #fff;
-    background-color: #b08c3e;
+    background-color: #99b494;
 }
 
 .blog-comment-section {
@@ -2543,14 +2543,14 @@ input[type=radio]:checked:before {
 .blog-pagination-wrap li a:hover {
     opacity: 1;
     text-decoration: none;
-    background-color: #b08c3e;
-    border: 1px solid #b08c3e;
+    background-color: #99b494;
+    border: 1px solid #99b494;
     color: #fff;
 }
 
 .blog-pagination-wrap li a.active {
-    background-color: #b08c3e;
-    border: 1px solid #b08c3e;
+    background-color: #99b494;
+    border: 1px solid #99b494;
     color: #fff;
 }
 
@@ -2589,7 +2589,7 @@ input[type=radio]:checked:before {
 }
 
 .post-list li .icon span {
-    color: #b08c3e;
+    color: #99b494;
     font-size: 12px;
 }
 
@@ -2665,7 +2665,7 @@ input[type=radio]:checked:before {
 }
 
 .progress-wrap svg.progress-circle path {
-    stroke: #b08c3e;
+    stroke: #99b494;
     stroke-width: 2;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -2680,11 +2680,11 @@ input[type=radio]:checked:before {
 }
 
 .progress-wrap::after {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .progress-wrap svg.progress-circle path {
-    stroke: #b08c3e;
+    stroke: #99b494;
 }
 
 
@@ -2701,7 +2701,7 @@ input[type=radio]:checked:before {
 }
 
 .gift-registry h6 {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 .gift-registry a {
@@ -2803,7 +2803,7 @@ input[type=radio]:checked:before {
 }
 
 .insta .follow .text-bg i {
-    color: #b08c3e;
+    color: #99b494;
     z-index: 1;
 }
 
@@ -2855,7 +2855,7 @@ input[type=radio]:checked:before {
 }
 
 .sub-footer p a:hover {
-    color: #b08c3e;
+    color: #99b494;
 }
 
 
@@ -2930,7 +2930,7 @@ input[type=radio]:checked:before {
     }
 
     .nav-scroll .navbar-collapse .active {
-        color: #b08c3e !important;
+        color: #99b494 !important;
     }
 
     .dropdown-menu {
@@ -3217,6 +3217,13 @@ button.next:hover {
 
 }
 
+.fondillo {
+    background-image: url(../assets/fondo.png);
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .solidBackground {
     background-image: url(../images3/elem2.png), url(../images3/elemento.png), url(../images3/sinnada.jpg);
     background-repeat: no-repeat, no-repeat, no-repeat;
@@ -3231,4 +3238,60 @@ button.next:hover {
         background-position: top right, bottom left, center;
         background-size: 250px, 250px, cover;
     }
+}
+
+/*Dos hojas esquineadas y una derecha-abajo grande*/
+.eucalipto {
+    Background-image: url(../assets/hoja5-01.png), url(../assets/hoja4-01.png), url(../assets/hoja1-01.png), url(../assets/fondo.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: bottom right, bottom left, top right, center;
+    background-size: 700px, 400px, 400px, cover;
+}
+
+@media screen and (max-width: 768px) {
+    .eucalipto {
+        Background-image: url(../assets/hoja5-01.png), url(../assets/hoja4-01.png), url(../assets/hoja1-01.png), url(../assets/fondo.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: bottom right, bottom -20px left -45px, top -40px right -50px, center;
+    background-size: 400px, 200px, 210px, cover;
+    
+    }
+}
+
+/*Hojillas juntas como animadas. Una arriba y otra abajo*/
+.eucalipto2 {
+    Background-image: url(../assets/hojaslindas-01.png), url(../assets/hojaslindas-02-01.png), url(../assets/fondo.png);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: top center, bottom center, center;
+    background-size: 500px, 500px, cover;
+    
+}
+@media screen and (max-width: 768px) {
+
+    .eucalipto2 {
+        Background-image: url(../assets/hojaslindas-01.png), url(../assets/hojaslindas-02-01.png), url(../assets/fondo.png);
+        background-repeat: no-repeat, no-repeat, no-repeat;
+        background-position: top center, bottom center, center;
+        background-size: 400px, 400px, cover;
+        
+    }  
+}
+
+/*Dos hojas esquineadas*/
+
+.eucalipto3 {
+    Background-image:  url(../assets/hoja4-01.png), url(../assets/hoja1-01.png), url(../assets/fondo.png);
+    background-repeat:  no-repeat, no-repeat, no-repeat;
+    background-position:  bottom left, top right, center;
+    background-size: 400px, 400px, cover;
+}
+
+@media screen and (max-width: 768px) {
+    .eucalipto3 {
+        Background-image:  url(../assets/hoja4-01.png), url(../assets/hoja1-01.png), url(../assets/fondo.png);
+        background-repeat:  no-repeat, no-repeat, no-repeat;
+        background-position:  bottom left, top right, center;
+        background-size: 150px, 150px, cover;
+    }
+
 }
